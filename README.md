@@ -6,7 +6,7 @@
 
 Projeto desenvolvido junto a RocketSeat no evento Next Level Week
 
-[Accesse clicando aqui](https://caiogvm.github.io/NLW-esports-explorer)
+[Accesse clicando aqui](https://caiogvm.github.io/nlw-esports-explorer)
 
 ##  🛠 Tecnologias
 - HTML
